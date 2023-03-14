@@ -1,5 +1,4 @@
-# Interactive Map
-## Interactive Earthquake Map
+# Interactive Earthquake Map
 
 This project is on marking of earthquakes on world map,made during the completion of "Object Oriented Programming in 
 Java" course on Coursera. The earthquakes are sorted the earthquakes on the basis of the country name.
