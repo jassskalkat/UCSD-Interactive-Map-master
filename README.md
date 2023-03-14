@@ -1,4 +1,4 @@
-# Interactive-Map
+# Interactive Map
 ## Interactive Earthquake Map
 
 This project is on marking of earthquakes on world map,made during the completion of "Object Oriented Programming in 
